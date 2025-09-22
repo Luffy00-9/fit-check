@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Fitting Room",
+  "description": "Upload a photo of yourself and describe an outfit to see how it looks on you. This virtual try-on experience is powered by Gemini to create a new image of you in your desired clothing.",
+  "requestFramePermissions": []
+}
